@@ -1,0 +1,1 @@
+The system is designed to work with lithophany and is intended to detect a hand in the field of view of the camera and obtain the coordinates of the point touching the lithophany of the hand, followed by interaction with the client application and playback of a sound series depending on the coordinates of the point of the hand.
